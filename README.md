@@ -36,13 +36,21 @@ Created an interactive **4-page dashboard**:
 
 1. **Page 1 – Summary (Home)**
    Overview of dashboard sections with navigation
-2. **Page 2 – Executive Overview**
+   ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20page1.png)
+
+3. **Page 2 – Executive Overview**
    Key KPIs: Revenue, Orders, Profit Margin %, RPO
    Monthly trends, top/bottom products, region-wise sales
-3. **Page 3 – Product & Channel Performance**
+   ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20page2.png)
+
+5. **Page 3 – Product & Channel Performance**
    Deep dive into product performance and sales by channel
-4. **Page 4 – Customer & Region Analysis**
+   ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20page3.png)
+
+7. **Page 4 – Customer & Region Analysis**
    Customer count, behavior, and map-based regional sales insights
+   ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20page4.png)
+
 
 ---
 
@@ -94,7 +102,7 @@ Power BI Dashboard (4 Pages)
 
 ---
 
-## 🤝 Credits
+## 🤝 
 
 Created by \Nikhil Chauhan as part of a portfolio project.
 Inspired by real-world sales dashboard use cases 
