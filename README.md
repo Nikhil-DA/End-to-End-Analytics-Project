@@ -5,6 +5,7 @@
 ## 🔍 Overview
 
 This project focuses on transforming raw sales data into a meaningful and interactive dashboard using **Python** for cleaning and **Power BI** for visualization. It provides a comprehensive overview of sales performance, customer behavior, regional trends, and product/channel performance.
+![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20problem%20statement.png)
 
 ---
 
@@ -13,16 +14,20 @@ This project focuses on transforming raw sales data into a meaningful and intera
 ### ✅ Raw Data
 
 * Source: Excel file with 6 sheets
-  ![img alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20page1.png)
-  ![img alt]()
-  ![img alt]()
-  ![img alt]()
+ ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20raw%20csv.png)
 
 ### 🧹 Data Preparation (Python - Pandas)
 
-* Combined 4 sheets into a single dataset
-* Cleaned nulls, renamed columns, standardized formats 
+* importing necessary libs
+  ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20libs%20and%20visual%20setup.png)
+* * Combined 4 sheets into a single dataset
+* Cleaned nulls, renamed columns, standardized formats
+  ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20clean%20and%20prep.png)
 * Feature engineered fields (Profit Margin %, Revenue per Order etc)
+  
+* EDA for insights(some the many are shown below)
+  ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-eda%20graph.png)
+  ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-eda%20graph2.png)
 * Exported cleaned file
 
 ### 📈 Power BI Dashboard
@@ -45,7 +50,7 @@ Created an interactive **4-page dashboard**:
 ## 🧱 Project Workflow
 
 ```
-Raw Excel Data (4 sheets)
+Raw Excel Data (6 sheets)
        ⬇
 Python (Pandas) Cleaning & Merging
        ⬇
