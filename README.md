@@ -5,7 +5,7 @@
 ## 🔍 Overview
 
 This project focuses on transforming raw sales data into a meaningful and interactive dashboard using **Python** for cleaning and **Power BI** for visualization. It provides a comprehensive overview of sales performance, customer behavior, regional trends, and product/channel performance.
-![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20problem%20statement.png)
+![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20problem%20statement0.png)
 
 ---
 
