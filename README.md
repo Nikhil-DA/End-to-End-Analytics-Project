@@ -88,7 +88,7 @@ Power BI Dashboard (4 Pages)
 ## 🤝 Credits
 
 Created by \Nikhil Chauhan as part of a portfolio project.
-Inspired by real-world sales dashboard use cases and Alex the Analyst’s bootcamp.
+Inspired by real-world sales dashboard use cases 
 
 ---
 
