@@ -12,7 +12,11 @@ This project focuses on transforming raw sales data into a meaningful and intera
 
 ### ✅ Raw Data
 
-* Source: Excel file with 4 sheets 
+* Source: Excel file with 6 sheets
+  ![img alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20page1.png)
+  ![img alt]()
+  ![img alt]()
+  ![img alt]()
 
 ### 🧹 Data Preparation (Python - Pandas)
 
