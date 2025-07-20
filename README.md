@@ -95,7 +95,6 @@ Inspired by real-world sales dashboard use cases
 ## 📄 License
 
 MIT License – free to use with attribution.
-See [LICENSE](LICENSE) for more details.
 
 ---
 
