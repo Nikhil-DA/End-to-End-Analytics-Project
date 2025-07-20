@@ -24,7 +24,7 @@ This project focuses on transforming raw sales data into a meaningful and intera
 * Cleaned nulls, renamed columns, standardized formats
   ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-%20clean%20and%20prep.png)
 * Feature engineered fields (Profit Margin %, Revenue per Order etc)
-  
+  1[image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-Feature%20Engineering.png)
 * EDA for insights(some the many are shown below)
   ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-eda%20graph.png)
   ![image alt](https://github.com/Nikhil-DA/End-to-End-Analytics-Project/blob/main/sales-eda%20graph2.png)
